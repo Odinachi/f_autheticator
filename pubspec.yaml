@@ -1,6 +1,6 @@
 name: f_authenticator
 description: 2FA Authentication package for flutter.
-version: 0.0.2
+version: 0.0.3
 homepage:
 issue_tracker: https://github.com/Odinachi/f_autheticator/issues
 repository: https://github.com/Odinachi/f_autheticator
